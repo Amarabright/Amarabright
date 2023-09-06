@@ -2,19 +2,20 @@
 
 ## This is Amarachi Ugagbe
 
-## I am a Petroleum Engineer turned Data Analyst 😃
+## I am a Petroleum Engineer turned Data Analyst /Business Intelligence Analyst 😃
 
-- 🔭 Call me a Data Bender as i love to clean, transform, model and analyze data for business insights.
-- 🔭 I’m currently working on Several Projects to challenge myself and grow my Data Analytics and Science Skill
-- 👯 I’m looking to collaborate with companies, organizations or even individuals to solve their business problems leveraging data.
-- 🤔 I’m open for Entry Level Data Analyst Role as i am currenting in search for a Data Analyst role.
-- 💬 Ask me about any thing on Data and i will respond immeditaly. However PowerBI is my favourite Data Analytic tool
+- 🔭 Call me a Data Bender as I love to clean, transform, model and analyze data for business insights.
+- 🔭 I’m currently working on Several Projects to challenge myself and grow my Data Analytics and Science Skills
+- 👯 I’m looking to collaborate with companies, organizations or even individuals to solve their business problems by leveraging data.
+- 🤔 With my love for building solutions to help businesses, I began an adventure into the Power Platform. I work with PowerApps, Power Automate, and Powwer Virtual Agents to automate business processes.
+- 🤔 I’m open for Entry Level Data Analyst Role as I am currently in search of a Data Analyst role.
+- 💬 Ask me about anything on Data and I will respond immediately. However, PowerBI is my favorite Data Analytic tool
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/data-analyst-amarachi-nwoke-ugagbe/)
 - 😄 Pronouns: She
-- ⚡ Fun fact: I love to speak publicly and  guide youths into pursuing a tech career.
+- ⚡ Fun fact: I love to speak publicly and  guide youths into pursuing a career in tech.
 
 
-Data Analytic tools i use:
+My Arsenal:
 
 - Microsoft Excel
 - SQL (Structured Query Language)
@@ -23,6 +24,10 @@ Data Analytic tools i use:
 - Tableau
 - Python
 - R
+- Power Apps
+- Power Automate
+- Power Virtual Agents
+- Looker
 
 <!--
 **Amarabright/Amarabright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
