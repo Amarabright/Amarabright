@@ -7,7 +7,7 @@
 - 🔭 Call me a Data Bender as I love to clean, transform, model and analyze data for business insights.
 - 🔭 I’m currently working on Several Projects to challenge myself and grow my Data Analytics and Science Skills
 - 👯 I’m looking to collaborate with companies, organizations or even individuals to solve their business problems by leveraging data.
-- 🤔 With my love for building solutions to help businesses, I began an adventure into the Power Platform. I work with PowerApps, Power Automate, and Powwer Virtual Agents to automate business processes.
+- 🤔 With my love for building solutions to help businesses, I began an adventure into the Power Platform. I work with PowerApps, Power Automate, and Power Virtual Agents to automate business processes.
 - 🤔 I’m open for Entry Level Data Analyst Role as I am currently in search of a Data Analyst role.
 - 💬 Ask me about anything on Data and I will respond immediately. However, PowerBI is my favorite Data Analytic tool
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/data-analyst-amarachi-nwoke-ugagbe/)
