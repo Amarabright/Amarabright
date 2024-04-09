@@ -2,7 +2,7 @@
 
 ## This is Amarachi Ugagbe
 
-## I am a Petroleum Engineer turned Data Analyst /Business Intelligence Analyst 😃
+## I am a Data Analyst /Business Intelligence Analyst
 
 - 🔭 Call me a Data Bender as I love to clean, transform, model and analyze data for business insights.
 - 🔭 I’m currently working on Several Projects to challenge myself and grow my Data Analytics and Science Skills
