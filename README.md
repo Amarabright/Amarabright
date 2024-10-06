@@ -1,6 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
 ## This is Amarachi Ugagbe
+
+## I AM A GIRL!
+
+connect with me on [Linkedin](https://www.linkedin.com/in/data-analyst-amarachi-nwoke-ugagbe/)
+
+###### teaching a class
 
 ## I am a Data Analyst /Business Intelligence Analyst
 
@@ -10,7 +16,9 @@
 - 🤔 With my love for building solutions to help businesses, I began an adventure into the Power Platform. I work with PowerApps, Power Automate, and Power Virtual Agents to automate business processes.
 - 🤔 I’m open for Data Analyst Role.
 - 💬 Ask me about anything on Data and I will respond immediately. However, PowerBI is my favorite Data Analytic tool
+- 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/data-analyst-amarachi-nwoke-ugagbe/)
+- 
 - 😄 Pronouns: She
 - ⚡ Fun fact: I love to speak publicly and  guide youths into pursuing a career in tech.
 
