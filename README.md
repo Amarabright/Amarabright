@@ -1,11 +1,5 @@
 # Hi there 👋
 
-
-#  tirusilut;siouoi;ru;oaruaf;o ua oru f'apuf'paruii'aifrop'if'
-
-
-
-
 ##### I LOVE DATA
 
 ## This is Amarachi Ugagbe
