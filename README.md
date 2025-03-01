@@ -1,7 +1,5 @@
 # Hi there 👋
 
-##### I LOVE DATA
-
 ## This is Amarachi Ugagbe
 
 ## I am a Data Analyst /Business Intelligence Analyst
@@ -21,13 +19,10 @@
 
 
 
-
-# CONNECT WITH ME [HERE:](https://www.linkedin.com/in/data-analyst-amarachi-nwoke-ugagbe/)
-
-How to reach me: [LinkedIn](https://www.linkedin.com/in/data-analyst-amarachi-nwoke-ugagbe/)
+Connect with me on [linkedin](https://www.linkedin.com/in/data-analyst-amarachi-nwoke-ugagbe/)
 
 
-
+Try my formating [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
 
